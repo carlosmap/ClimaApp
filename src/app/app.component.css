@@ -1,0 +1,59 @@
+#homeSection1{
+    text-align: center;    
+    
+}
+#homeSection1 .titulo img
+{
+    width: 90px;
+}
+
+a{
+    text-decoration: none;    
+    color: #00365e;
+}
+
+.titulo
+{
+    font-size: 60px;
+    margin: 15px;
+    color: #00365e;
+}
+
+.textoMediano
+{
+    font-size: 30px;
+    margin: 15px;
+    color: #3c3f47;
+}
+
+form
+{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+
+#contenido img
+{
+    border-radius: 15px;
+}
+
+.textoMediano
+{
+    font-size: 30px;
+    margin: 15px;
+    color: #3c3f47;
+}
+
+button
+{
+    padding: 10px;
+    margin: 3px;
+    font-size: 20px;
+    border-radius: 10px;
+    border-color: #00365e;
+    background-color: #00365e;
+    color: white;
+    font-weight: bold;
+
+}
