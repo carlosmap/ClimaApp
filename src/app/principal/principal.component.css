@@ -1,0 +1,55 @@
+.button2
+{
+    padding: 10px;
+    margin: 3px;
+    font-size: 15px;
+    border-radius: 10px;
+    border-color: #00365e;
+    background-color: #00365e;
+    color: white;
+    font-weight: bold;
+}
+
+.contenedor
+{    
+    width: 80%;;
+    margin: 0 auto;
+}
+
+#nom_usuario
+{    
+    font-size: 20px;
+    margin: 5px;
+    padding: 3px;
+    text-align: right;
+    background-color: silver;
+    font-weight: bold;
+}
+
+#botones_navegacion
+{
+    text-align: right;   
+    margin: 5px;
+}
+
+#contenedor_pais_ciudad
+{
+    display: inline-block;
+    background-color: silver;
+    width: 50%;
+}
+
+#contenedor_clima
+{
+    display: inline-block;
+    background-color: #6699ff;
+    width: 50%;
+    font-size: 60px;
+    color: white;
+}
+
+.texto_formulario
+{
+    font-size: 15px;
+    font-weight: bold;    
+}

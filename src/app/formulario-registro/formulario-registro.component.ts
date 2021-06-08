@@ -25,8 +25,8 @@ export class FormularioRegistroComponent implements OnInit {
   {
     
     this.usuariosServices.save(this.usuario).subscribe( (data)=> {
-      alert("Registo exitodo");
-      this.router.navigate(['home']);
+      alert("Registo exitoso");
+      this.router.navigate(['principal']);
 
       console.log(data);
     }, (error) => {
